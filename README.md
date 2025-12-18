@@ -22,7 +22,10 @@ and security improvements — not on performing attacks.
 - Security incident documentation
 
 ## Files
-- Incident_Report.md – Full incident analysis and response
+## Project Documents
+- [Incident Report Analysis (PDF)](Incident_report_analysis.pdf)
+- [ICMP DoS Scenario (PDF)](ICMP_DoS_Scenario_Google_Cybersecurity_Analyst.pdf)
+
 
 ## Disclaimer
 This project is based on a **training scenario** from the Google Cybersecurity Analyst
